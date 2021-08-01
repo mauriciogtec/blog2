@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: earth
+theme: mytheme
 day_night: true
-font: ''
-font_size: L
+font: myfonts
+font_size: S
 
 # SEO
 
@@ -109,7 +109,7 @@ abstract_length: 135
 plugins_js: []
 avatar:
   gravatar: true
-  shape: circle
+  shape: square  # circle
 publications:
   date_format: January 2006
   citation_style: apa

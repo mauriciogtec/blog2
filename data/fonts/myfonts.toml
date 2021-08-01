@@ -1,0 +1,12 @@
+# Font style metadata
+name = "Minimal"
+
+# Optional Google font URL
+google_fonts = "family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&family=Lato"
+
+
+# Font families
+heading_font = "Lato"
+body_font = "Roboto"
+nav_font = "Lato"
+mono_font = "Roboto Mono"
