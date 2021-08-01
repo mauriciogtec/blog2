@@ -75,10 +75,10 @@ highlight_name: false
 
 ### Bio
 
-I am a student researcher at UT Austin working in applied statistics and machine learning supervised by Professors James Scott and Corwin Zigler. During my PhD, I have collaborated with researchers from diverse scientific fields; including cancer, pollution, robotics, epidemiology and transportation.
+I am a student researcher at UT Austin working in applied statistics and machine learning supervised by Professors James Scott and Corwin Zigler.
 
-From the stats point of view, I've specialized on large-scale inference, Bayesian modeling, spatio-temporal data and causal inference (CI). From the ML point of view, I've worked on reinforcement learning (RL) and deep learning applications, particularly for vision. Currently, I am very interested in sequential decision problems such as RL, adaptive experiment design, sequential CI and active learning.
+During my PhD, I have collaborated with researchers from diverse scientific fields; including cancer, pollution, robotics, epidemiology and transportation. From the stats point of view, I've specialized on large-scale inference, Bayesian modeling, spatio-temporal data and causal inference. From the ML point of view, I've worked on reinforcement learning (RL) and deep learning applications, particularly for vision. Currently, I am very interested in sequential decision problems such as RL, adaptive experiment design, sequential causal inference and active learning.
 
-Previously, I have done internships at Intel AI and Facebook AI Research. During the first months of the Covid-19 pandemic, I also collaborated with the UT Covid-19 Modeling Consortium where I helped building forecasting models useful to the CDC. Recently, I also joined the UT Austin Villa team led by Prof. Peter Stone at the Robocup competition. Working with robots is a lot of fun, and it has shaped my understanding and ability to tackle problems in other applied scientific domains using cutting-edge AI tools.
+Previously, I have done internships at Intel AI and Facebook AI Research. During the first months of the Covid-19 pandemic, I collaborated with the UT Covid-19 Modeling Consortium where I helped building forecasting models useful to the CDC. Recently, I also joined the UT Austin Villa team led by Prof. Peter Stone at the Robocup competition. Working with robots is a lot of fun, and it has shaped my understanding and ability to tackle problems in other applied scientific domains using cutting-edge AI tools.
 
-Outside research, I play tennis and paddle board on Lady Bird Lake with my wife Michelle. I also like languages; currently, I'm studying Japanese and Kanji (Chinese characters).
+Outside research, I play tennis and paddle board on Lady Bird Lake with my wife Michelle. I also like languages. I currently study Japanese and Kanjis (Chinese characters).
