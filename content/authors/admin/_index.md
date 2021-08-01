@@ -75,7 +75,7 @@ highlight_name: false
 
 ### Bio
 
-I am a student researcher at UT Austin working in applied satistics and AI supervised by Professors James Scott and Corwin Zigler. During my PhD, I have collaborated with researchers from diverse scientific fields; including cancer, pollution, robotics, epidemiology and transportation.
+I am a student researcher at UT Austin working in applied staistics and machine learning supervised by Professors James Scott and Corwin Zigler. During my PhD, I have collaborated with researchers from diverse scientific fields; including cancer, pollution, robotics, epidemiology and transportation.
 
 From the stats point of view, I've specialized on large-scale inference, Bayesian modeling, spatio-temporal data and causal inference (CI). From the AI point of view, I've worked on reinforcement learning (RL) and deep learning applications, particularly for vision. Currently, I am very interested in sequential decision problems such as RL, adaptive experiment design, sequential CI and active learning.
 
