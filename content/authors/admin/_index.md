@@ -73,13 +73,11 @@ email: "mauriciogtec@gmail.com"
 highlight_name: false
 ---
 
-### Bio
+### About me
 
-I am a student researcher at UT Austin working in statistics and machine learning for scientific applications supervised by Professors James Scott and Corwin Zigler.
+I am a Ph.D. candidate at UT Austin, working in statistics and machine learning (ML) for scientific applications supervised by Professors [James Scott](https://jgscott.github.io/) and [Cory Zigler](https://cns.utexas.edu/directory/item/3761-zigler-corwin?Itemid=349). I collaborate with researchers from diverse scientific domains, such as cancer, air pollution, robotics, epidemiology, and transportation. I approach problems using a combined Statistics+ML mindset (to exploit structure-rich data while
+understanding the data-generating process and sources of confounding).  Within Statistics, I specialize in large-scale inference for spatio-temporal data, Bayesian modeling, and causal inference. In ML, I've worked on deep learning applications, particularly for images and reinforcement learning (RL). Lately, I have been investigating sequential decision-making (including RL) for adaptive policies, treatments, and experiment design in health care and public policy problems.
 
- During my PhD, I have collaborated with researchers from diverse scientific fields; including cancer, pollution, robotics, epidemiology and transportation. 
-From the Stats point of view, I've specialized on large-scale inference, Bayesian modeling, spatio-temporal data and causal inference. From the ML standpoint, I've worked on deep learning applications---particularly for vision---and reinforcement learning (RL). Lately I have been interested in sequential decision problems (including RL), with a view towards adaptive policies/treatments, experimental design, causal estimation, and active learning.
+At the beginning of the Covid-19 pandemic, I joined the UT Covid-19 Modeling Consortium, where I helped building forecasting models to advise the CDC. Recently, I became part of the [Learning Agents Research Group  (LARG)](https://www.cs.utexas.edu/~larg/index.php/Learning_Agents_Research_Group) and the [Robocup UT Austin Villa Team](https://www.cs.utexas.edu/~AustinVilla/) team led by Prof. Peter Stone. Working with robots is a lot of fun, and it has shaped my understanding and ability to tackle problems in other applied scientific domains using cutting-edge AI tools. Previously, I did internships at Intel AI and Facebook AI Research.
 
-Previously, I have done internships at Intel AI and Facebook AI Research. During the first months of the Covid-19 pandemic, I joined the UT Covid-19 Modeling Consortium where I helped building forecasting models useful to the CDC. Recently, I became part of the UT Austin Villa team led by Prof. Peter Stone at the Robocup competition. Working with robots is a lot of fun, and it has shaped my understanding and ability to tackle problems in other applied scientific domains using cutting-edge AI tools.
-
-Outside research, I play tennis and paddle board on Lady Bird Lake with my wife Michelle. I also like languages. I currently study Japanese and Kanjis (Chinese characters).
+Outside research, I play tennis and paddleboard on Lady Bird Lake with my wife, Michelle. I also like learning languages. I am currently studying Japanese. 
